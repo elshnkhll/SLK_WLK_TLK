@@ -1,5 +1,5 @@
 # SLK_WLK_TLK
-Walkie-Talkie based on ESP32 
+ESP32 based Walkie-Talkie using Slack.
 
 I am trying to create an Wi-Fi Walkie-Talkie. Here are my goals in terms of features so far:
 
